@@ -1,0 +1,19 @@
+#Dataset folders
+data/
+
+#virtual environments
+venv/
+
+#checkpoints
+.ipynb_checkpoints
+
+#vis results
+wandb/
+
+#saved models
+
+models/
+
+#cache 
+
+__pycache__/
